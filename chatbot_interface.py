@@ -1,5 +1,5 @@
 import streamlit as st
-from core import extract_case_info_prompt_only, handle_case_storage
+from chatbot_engine import extract_case_info_prompt_only, handle_case_storage
 import base64
 import json
 import random
